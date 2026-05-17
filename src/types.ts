@@ -60,6 +60,10 @@ export const PROVIDER_DETAILS = {
     title: "Goose",
     relativePath: ".goose/skills/design-system/SKILL.md"
   },
+  grok: {
+    title: "Grok",
+    relativePath: ".grok/skills/design-system/SKILL.md"
+  },
   junie: {
     title: "Junie",
     relativePath: ".junie/skills/design-system/SKILL.md"

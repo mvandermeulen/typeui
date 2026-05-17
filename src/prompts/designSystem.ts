@@ -41,6 +41,7 @@ const UNIVERSAL_DEFAULT_AGENT_LIST = [
   "Cursor",
   "Gemini CLI",
   "GitHub Copilot",
+  "Grok",
   "Kimi Code CLI",
   "OpenCode"
 ];

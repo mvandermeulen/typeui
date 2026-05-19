@@ -1,6 +1,6 @@
 ---
 name: typeui-fundamentals
-description: 
+description: Universal UI/UX design principles covering visual hierarchy, interaction laws, typography foundations, and WCAG accessibility requirements. Use when making design decisions not covered by a specific design system, validating principle compliance, or resolving conflicts between aesthetics and accessibility. Design-system-agnostic and applies to every surface.
 license: MIT
 metadata:
   author: typeui.sh

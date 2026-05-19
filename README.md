@@ -94,7 +94,7 @@ Check out all [design skills](https://www.typeui.sh/design-skills). Available in
     </td>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/design-skills/codex">
-        <img src="https://www.typeui.sh/registry-examples/open.png" alt="Codex" width="220" />
+        <img src="https://www.typeui.sh/registry-examples/codex.png" alt="Codex" width="220" />
         <br /><b>Codex</b>
       </a>
     </td>

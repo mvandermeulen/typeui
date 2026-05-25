@@ -708,12 +708,11 @@ A huge thank you to the companies supporting our open-source work.
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://www.skybridge.tech/" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/user-attachments/assets/88c401ee-b19b-4b78-9a7e-325337dba529" alt="Skybridge" width="220" />
+        <img src="https://github.com/user-attachments/assets/88c401ee-b19b-4b78-9a7e-325337dba529" alt="Skybridge" width="260" />
       </a>
     </td>
-    <td align="center" width="25%">&nbsp;</td>
     <td align="center" width="25%">&nbsp;</td>
     <td align="center" width="25%">&nbsp;</td>
   </tr>

@@ -184,6 +184,21 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <a href="https://www.typeui.sh/docs/guides/lovable"><b>Open Lovable guide →</b></a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/mistral">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/mistral-ai.svg" alt="Mistral logo" width="69" height="48" />
+        <br /><br />
+        <b>Mistral</b>
+      </a>
+      <br />
+      <sub>Add the hosted TypeUI MCP server to Mistral.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/mistral"><b>Open Mistral guide →</b></a>
+    </td>
+    <td align="center" width="33%"></td>
+    <td align="center" width="33%"></td>
+  </tr>
 </table>
 
 ## Design skills

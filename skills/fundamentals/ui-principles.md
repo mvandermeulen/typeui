@@ -102,6 +102,14 @@ When padding differs per side, use the **smallest inset** that separates the cur
 - **Implementation:** `white-space: nowrap` on the label; `flex-shrink: 0` (or equivalent) on the button; `min-width: fit-content` / `width: max-content` when the layout would otherwise squeeze the control. Icon-only buttons are exempt from the nowrap rule but still must not shrink below their defined touch target.
 - If the label is too long for the available space, **shorten the copy** or **reflow the layout** (stack, wrap the row, move actions to a footer bar) — never wrap the button text and never let the button collapse to fit.
 
+### Adjacent buttons must share the same size
+
+- When two or more buttons sit **next to each other in the same row** (Cancel + Save, Login + Sign up, secondary + primary CTAs, toolbar actions), **every button in that group must match** — same height, same vertical padding, same horizontal padding token, same font size, and same border width.
+- Do not place a tall primary next to a short secondary, or mix padding scales because labels differ in length. Uneven neighbors read as broken alignment, not intentional hierarchy. Hierarchy comes from **variant** (primary vs secondary vs ghost), not from resizing the control box.
+- **Width may differ** by label length — that is expected. **Height and padding must not.** If the design system defines a button size token (`sm`, `md`, `lg`), every adjacent button in the group uses the **same** size token.
+- **Icon-only buttons** in the same row as labeled buttons must match the labeled buttons' **height** (same outer box height / touch target). Width follows the icon-only padding rule; height stays locked to the group.
+- **Implementation:** apply one shared size class or token set to the whole button group; avoid per-button inline padding overrides. In flex rows, align on `align-items: stretch` only when all buttons share identical padding — otherwise use `align-items: center` with enforced equal min-height from the design system.
+
 ### Mockups and illustrations must feel premium
 
 - Where the layout calls for a **mockup, product shot, hero illustration, empty-state graphic, or decorative visual**, do not ship placeholders, broken-image icons, gray boxes, or clip-art.

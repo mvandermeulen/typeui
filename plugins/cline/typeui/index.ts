@@ -1,6 +1,6 @@
 import { createTool, type AgentPlugin } from "@cline/sdk";
 
-const TYPEUI_MCP_URL = "https://mcp.typeui.sh/mcp";
+const TYPEUI_MCP_URL = "https://mcp.typeui.sh";
 const TYPEUI_DOCS_URL = "https://www.typeui.sh/docs/guides/cline";
 
 const mcpConfig = `{

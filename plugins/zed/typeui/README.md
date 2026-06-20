@@ -10,7 +10,7 @@ Until the Zed extension is approved in the marketplace, add TypeUI as a custom M
 {
   "context_servers": {
     "typeui": {
-      "url": "https://mcp.typeui.sh/mcp"
+      "url": "https://mcp.typeui.sh"
     }
   }
 }

@@ -1,6 +1,6 @@
 import { tool } from "@opencode-ai/plugin";
 
-const TYPEUI_MCP_URL = "https://mcp.typeui.sh/mcp";
+const TYPEUI_MCP_URL = "https://mcp.typeui.sh";
 const TYPEUI_DOCS_URL = "https://www.typeui.sh/docs/guides/opencode";
 
 const configSnippet = `{

@@ -20,7 +20,7 @@ Add the hosted TypeUI MCP server in Cline:
 {
   "mcpServers": {
     "typeui": {
-      "url": "https://mcp.typeui.sh/mcp",
+      "url": "https://mcp.typeui.sh",
       "disabled": false,
       "autoApprove": []
     }

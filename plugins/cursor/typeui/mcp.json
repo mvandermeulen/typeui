@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "typeui": {
-      "url": "https://mcp.typeui.sh/mcp"
+      "url": "https://mcp.typeui.sh"
     }
   }
 }

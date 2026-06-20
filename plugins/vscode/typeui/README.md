@@ -27,7 +27,7 @@ https://www.typeui.sh/docs/guides/vscode
 You can also install it from your terminal:
 
 ```bash
-code --add-mcp '{"name":"typeui","type":"http","url":"https://mcp.typeui.sh/mcp"}'
+code --add-mcp '{"name":"typeui","type":"http","url":"https://mcp.typeui.sh"}'
 ```
 
 Or add it to `.vscode/mcp.json` in your project:
@@ -37,7 +37,7 @@ Or add it to `.vscode/mcp.json` in your project:
   "servers": {
     "typeui": {
       "type": "http",
-      "url": "https://mcp.typeui.sh/mcp"
+      "url": "https://mcp.typeui.sh"
     }
   }
 }

@@ -5,7 +5,7 @@ TypeUI is a hosted Streamable HTTP MCP server. Do not clone or build a local ser
 ## Server
 
 - Name: `typeui`
-- URL: `https://mcp.typeui.sh/mcp`
+- URL: `https://mcp.typeui.sh`
 - Transport: Streamable HTTP
 
 ## Cline MCP config
@@ -16,7 +16,7 @@ Add this server to Cline MCP settings:
 {
   "mcpServers": {
     "typeui": {
-      "url": "https://mcp.typeui.sh/mcp",
+      "url": "https://mcp.typeui.sh",
       "type": "streamableHttp",
       "disabled": false,
       "autoApprove": []

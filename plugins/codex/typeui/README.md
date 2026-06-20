@@ -23,7 +23,7 @@ After installation, Codex will ask you to authenticate TypeUI when needed.
 This plugin registers the TypeUI Streamable HTTP MCP server:
 
 ```text
-https://mcp.typeui.sh/mcp
+https://mcp.typeui.sh
 ```
 
 ## Links

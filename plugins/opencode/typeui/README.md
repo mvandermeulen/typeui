@@ -14,7 +14,7 @@ Add this to your project `opencode.json` file:
   "mcp": {
     "typeui": {
       "type": "remote",
-      "url": "https://mcp.typeui.sh/mcp",
+      "url": "https://mcp.typeui.sh",
       "enabled": true
     }
   }

@@ -8,7 +8,7 @@ use zed_extension_api::{
 
 const MCP_REMOTE_PACKAGE: &str = "mcp-remote";
 const MCP_REMOTE_VERSION: &str = "latest";
-const TYPEUI_MCP_URL: &str = "https://mcp.typeui.sh/mcp";
+const TYPEUI_MCP_URL: &str = "https://mcp.typeui.sh";
 
 struct TypeUIZedExtension;
 

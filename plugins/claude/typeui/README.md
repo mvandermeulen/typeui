@@ -29,7 +29,7 @@ After installation, Claude Code will connect to TypeUI MCP. Sign in with TypeUI 
 This plugin registers the TypeUI remote HTTP MCP server:
 
 ```text
-https://mcp.typeui.sh/mcp
+https://mcp.typeui.sh
 ```
 
 ## Links

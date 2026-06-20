@@ -7,7 +7,7 @@ After installing the extension, enable the TypeUI context server in the Agent Pa
 The extension uses the hosted MCP server by default:
 
 ```text
-https://mcp.typeui.sh/mcp
+https://mcp.typeui.sh
 ```
 
 You only need to change `mcp_url` if you are testing a staging or self-hosted TypeUI MCP deployment.

@@ -17,7 +17,7 @@ After installation, Antigravity will connect to TypeUI through the bundled MCP c
 This plugin registers the TypeUI Streamable HTTP MCP server:
 
 ```text
-https://mcp.typeui.sh/mcp
+https://mcp.typeui.sh
 ```
 
 Antigravity uses `serverUrl` for remote MCP servers, so the plugin ships this MCP configuration:
@@ -26,7 +26,7 @@ Antigravity uses `serverUrl` for remote MCP servers, so the plugin ships this MC
 {
   "mcpServers": {
     "typeui": {
-      "serverUrl": "https://mcp.typeui.sh/mcp"
+      "serverUrl": "https://mcp.typeui.sh"
     }
   }
 }

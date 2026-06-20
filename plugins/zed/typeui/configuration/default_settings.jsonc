@@ -3,7 +3,7 @@
     "typeui": {
       "settings": {
         // Optional. Leave unset to use the hosted TypeUI MCP server.
-        "mcp_url": "https://mcp.typeui.sh/mcp"
+        "mcp_url": "https://mcp.typeui.sh"
       }
     }
   }

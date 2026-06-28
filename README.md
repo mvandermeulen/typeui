@@ -389,9 +389,9 @@ Check out all [design skills](https://www.typeui.sh/design-skills). Available in
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://www.typeui.sh/design-skills/elegant">
-        <img src="./registry-examples/elegant.png" alt="Elegant" width="260" />
-        <br /><b>Elegant</b>
+      <a href="https://www.typeui.sh/design-skills/square">
+        <img src="./registry-examples/square.png" alt="Square" width="260" />
+        <br /><b>Square</b>
       </a>
     </td>
     <td align="center" width="33%">
